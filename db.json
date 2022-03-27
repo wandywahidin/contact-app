@@ -1,0 +1,18 @@
+{
+  "contact": [
+    {
+      "name": "asep aho yaro domo",
+      "email": "wandy@gmail.com",
+      "phone": "9877666",
+      "category": "Family",
+      "id": 1
+    },
+    {
+      "name": "ahho",
+      "email": "wandy@gmail.com",
+      "phone": "0877655",
+      "category": "Friend",
+      "id": 2
+    }
+  ]
+}
