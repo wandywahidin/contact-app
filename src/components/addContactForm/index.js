@@ -5,7 +5,7 @@ import Swal from "sweetalert2";
 // action
 import addContact from "../../redux/action/addContact";
 
-export default function AddContactForm(params) {
+export default function AddContactForm() {
   const dispatch = useDispatch();
 
   const [name, setName] = useState("");
