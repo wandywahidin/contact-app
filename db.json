@@ -13,6 +13,13 @@
       "phone": "0877655",
       "category": "Friend",
       "id": 2
+    },
+    {
+      "name": "Wandy Wahidin",
+      "email": "wandywahidin53@gmail.com",
+      "phone": "087725499208",
+      "category": "Work",
+      "id": 3
     }
   ]
 }
